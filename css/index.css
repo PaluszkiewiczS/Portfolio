@@ -38,7 +38,6 @@ header {
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 18px;
     max-width: 90%;
-    max-width: 1728px;
     margin: 0 auto 80px;
 }
 .gallery img {
@@ -78,3 +77,4 @@ footer {
     margin-top: auto;
 
 }
+
