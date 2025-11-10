@@ -5,8 +5,10 @@ body {
     color: #333; 
 }
 header { 
-    background: #222; 
-    color: #fff; 
+    /*background: #222; 
+    color: #fff; */
+    background: #051C1F;
+    background: radial-gradient(circle,rgba(5, 28, 31, 1) 0%, rgba(28, 74, 46, 1) 67%, rgba(5, 28, 31, 1) 100%);
     padding: 40px 0; 
     text-align: center; 
 }
@@ -83,6 +85,7 @@ footer {
     margin-top: auto;
 
 }
+
 
 
 
