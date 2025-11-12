@@ -10,6 +10,7 @@ header {
     background: #000000;
     background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 74, 0, 1) 50%, rgba(0, 0, 0, 1) 100%);
     padding: 40px 0; 
+    color: #DADADA;
     text-align: center; 
 }
 .profile {
@@ -85,6 +86,7 @@ footer {
     margin-top: auto;
 
 }
+
 
 
 
