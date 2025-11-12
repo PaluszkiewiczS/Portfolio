@@ -5,12 +5,9 @@ body {
     color: #333; 
 }
 header { 
-    /*background: #222; 
-    color: #fff;*/
-    background: #000000;
-    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 15%, rgba(0, 74, 0, 1) 50%, rgba(0, 0, 0, 1) 85%);
+    background: #222; 
+    color: #fff;
     padding: 40px 0; 
-    color: #DADADA;
     text-align: center; 
 }
 .profile {
@@ -86,6 +83,7 @@ footer {
     margin-top: auto;
 
 }
+
 
 
 
