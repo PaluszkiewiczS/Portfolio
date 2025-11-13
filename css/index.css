@@ -53,6 +53,7 @@ header p{
     height: 140px;
     object-fit: cover;
     border: 3px solid #444;
+    margin-left: 1em;
 }
 .profile-info h2 { 
     margin-bottom: 10px; 
@@ -90,6 +91,12 @@ footer {
         grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
         max-width: 90%;
     }
+    header img{
+        position: relative;
+    }
+    header a{
+        position: relative;
+    }
 }
 @media (max-width: 600px) {
     .gallery {
@@ -97,9 +104,12 @@ footer {
         max-width: 90%;
     }
     header{
-        height: fit-content;
+        height: max-content;
     }
     header img{
+        position: relative;
+    }
+    header a{
         position: relative;
     }
 }
@@ -222,7 +232,3 @@ body.active h2
 {
     color: white;
 }
-
-
-
-
