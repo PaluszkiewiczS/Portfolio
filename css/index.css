@@ -163,7 +163,12 @@ body.active{
 }
 
 body.active header{
-    background-color: #003333;
+    background-color: #132b41;
+    color: #fff;
+}
+
+body.active footer{
+    background-color: #132b41;
     color: #fff;
 }
 
@@ -207,3 +212,4 @@ body.active h2
 {
     color: white;
 }
+
