@@ -29,6 +29,9 @@ header h1{
     font-size: 42px;
     width: 100%;
 }
+header p{
+    font-size: 20px;
+}
 
 .profile {
     max-width: 900px;
@@ -212,5 +215,6 @@ body.active h2
 {
     color: white;
 }
+
 
 
