@@ -116,7 +116,7 @@ footer {
         position: relative;
     }
     #toggle{
-        margin-right: 1em;
+        margin-right: 0.5em;
     }
 }
 html, body {
@@ -238,6 +238,7 @@ body.active h2
 {
     color: white;
 }
+
 
 
 
