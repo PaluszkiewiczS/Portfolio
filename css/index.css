@@ -115,6 +115,9 @@ footer {
     header a{
         position: relative;
     }
+    #toggle{
+        margin-right: 1em;
+    }
 }
 html, body {
     height: 100%;
@@ -235,6 +238,7 @@ body.active h2
 {
     color: white;
 }
+
 
 
 
